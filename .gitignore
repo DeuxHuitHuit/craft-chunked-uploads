@@ -4,4 +4,6 @@
 /tests/coverage
 /vendor
 .DS_Store
+.vscode
+.php-cs-fixer.cache
 composer.lock
